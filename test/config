@@ -1,0 +1,4 @@
+[alias]
+  key = value
+  foo = bar
+  baz = cux --arg qux
