@@ -23,4 +23,8 @@ $ heroku [command_alias]
 
 Tests are written in MiniTest. Please run `rake` to execute the tests.
 
+## Todo
+
+Add error handling for bad config files. Currently mistakes are just ignored.
+
 [1]: https://toolbelt.heroku.com
