@@ -17,6 +17,7 @@ $ heroku [command_alias]
   bash = run bash
   bashapp = run bash --app myapp
   new = create
+  logs = logs --tail
 ```
 
 ## Testing
